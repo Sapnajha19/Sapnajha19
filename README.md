@@ -16,4 +16,14 @@ Skills: HTML5/CSS3/Bootstrap/Tailwind/Python/C++/Javascript/Reactjs
 <a href="https://www.linkedin.com/in/sapna-jha-55287a233/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="45"></a>&nbsp;&nbsp;&nbsp; 
 <a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="45"></a>
 
+## Languages and Tools:
 
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="45"></a>&nbsp;&nbsp;
