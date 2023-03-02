@@ -1,4 +1,4 @@
-Hi👋, I am Sapna Jha, a Frontend Developer.
+Hi👋 :wave: , I am Sapna Jha, a Frontend Developer.
 Connect with me:
 [Linkedin](https://www.linkedin.com/in/sapna-jha-55287a233/) 
 [Twitter][def]
