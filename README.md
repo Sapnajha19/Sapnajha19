@@ -5,10 +5,10 @@ I am a passionate Frontend Developer with love for Javascript and Reactjs and wa
 Skills: HTML5/CSS3/Bootstrap/Tailwind/Python/C++/Javascript/Reactjs
 
 * 🏗️ I am currently working on my personal projects to upskill myself in Reactjs.
-* 🔭 I want to become a Full stack Developer, half way done.
+* 🏹 I want to become a Full stack Developer, half way done.
 * 🤍 I believe in learning by doing.
-* ⚜️ I believe in learning in public.
-* 🌱 I am looking forward to work open more real world projects and contribute in open source organization.
+* 💡 I believe in learning in public.
+* 👯🏻 I am looking forward to work open more real world projects and contribute in open source organization.
 * 💼 Have something for me related to work or community. Email at @sapnajha1919@gmail.com
 
 ## Connect with me: 
