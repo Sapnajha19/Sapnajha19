@@ -27,3 +27,5 @@ Skills: HTML5/CSS3/Bootstrap/Tailwind/Python/C++/Javascript/Reactjs
 <a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SapnaJ19"><img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="45"></a>&nbsp;&nbsp;
