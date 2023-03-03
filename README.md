@@ -27,10 +27,10 @@ Skills: HTML5/CSS3/Bootstrap/Tailwind/Python/C++/Javascript/Reactjs
 <a href="https://www.w3schools.com/cpp/"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://www.python.org/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/js/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="45"></a>&nbsp;&nbsp;
-<a href="https://reactjs.org/"><img src="https://icons8.com/icons/set/reactjs" width="45"></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://icons8.com/icons/set/git" width="45"></a>&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://icons8.com/icons/set/github" width="45"></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/color/512/react-native.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/512/git.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://img.icons8.com/glyph-neue/512/github.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/en/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="45"></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="45"></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://icons8.com/icons/set/vs-code" width="45"></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://icons8.com/icons/set/tailwind" width="45"></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="45"></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/512/tailwindcss.png" width="45"></a>&nbsp;&nbsp;
