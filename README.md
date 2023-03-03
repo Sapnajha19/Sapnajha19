@@ -1,6 +1,8 @@
 # Hi👋, This is Sapna Jha, I am a Frontend Developer and an Open Source enthusiast. 
 
-I am a passionate Frontend Developer with love for Javascript and Reactjs and want to pave my path for Fullstack Development. I am a curious kid in everything, love to explore new things and technolgies. I believe in community work and just have started with open source development. Personally I love to follow my hobbies other than coding and studies. I have found my new interest in hackathons, have participated in one an looking forward for more. I would love to be a part of your work. Email me @sapnajha1919Agmail.com.
+I am a passionate Frontend Developer with love for Javascript and Reactjs and want to pave my path for Fullstack Development. I am a curious kid in everything, love to explore new things and technolgies. I believe in community work and just have started with open source development. Personally I love to follow my hobbies other than coding and studies. I have found my new interest in hackathons, have participated in one an looking forward for more. I would love to be a part of your work. Email me @sapnajha1919gmail.com.
+
+![Alt text for your GIF](/"C:\Users\sapna\Downloads\Sapna Jha.gif".gif)
 
 Skills: HTML5/CSS3/Bootstrap/Tailwind/Python/C++/Javascript/Reactjs
 
